@@ -1,0 +1,202 @@
+[
+  {
+    "pop_size": 50,
+    "crossover_rate": 0.6087537643279334,
+    "mutation_rate": 0.03475263865322074,
+    "tournament_k": 5,
+    "success": false,
+    "final_conflicts": 12,
+    "decisions": 15550,
+    "runtime": 1.8265209197998047
+  },
+  {
+    "pop_size": 50,
+    "crossover_rate": 0.6198677655616728,
+    "mutation_rate": 0.08346163971380557,
+    "tournament_k": 10,
+    "success": false,
+    "final_conflicts": 8,
+    "decisions": 16282,
+    "runtime": 1.8277201652526855
+  },
+  {
+    "pop_size": 200,
+    "crossover_rate": 0.7332590792805651,
+    "mutation_rate": 0.010004835963326148,
+    "tournament_k": 3,
+    "success": false,
+    "final_conflicts": 8,
+    "decisions": 60817,
+    "runtime": 7.3288350105285645
+  },
+  {
+    "pop_size": 300,
+    "crossover_rate": 0.6355285359899885,
+    "mutation_rate": 0.021980516075203307,
+    "tournament_k": 5,
+    "success": false,
+    "final_conflicts": 4,
+    "decisions": 92217,
+    "runtime": 10.854454040527344
+  },
+  {
+    "pop_size": 150,
+    "crossover_rate": 0.94501774745991,
+    "mutation_rate": 0.011500394373949603,
+    "tournament_k": 10,
+    "success": false,
+    "final_conflicts": 6,
+    "decisions": 45683,
+    "runtime": 5.7819414138793945
+  },
+  {
+    "pop_size": 150,
+    "crossover_rate": 0.8773692154107976,
+    "mutation_rate": 0.08891225883125904,
+    "tournament_k": 5,
+    "success": false,
+    "final_conflicts": 4,
+    "decisions": 48987,
+    "runtime": 5.68522834777832
+  },
+  {
+    "pop_size": 200,
+    "crossover_rate": 0.8029570376723641,
+    "mutation_rate": 0.0825549498942481,
+    "tournament_k": 3,
+    "success": false,
+    "final_conflicts": 4,
+    "decisions": 64977,
+    "runtime": 7.4045374393463135
+  },
+  {
+    "pop_size": 100,
+    "crossover_rate": 0.7413642139310884,
+    "mutation_rate": 0.04201313096757066,
+    "tournament_k": 7,
+    "success": false,
+    "final_conflicts": 8,
+    "decisions": 31281,
+    "runtime": 3.728397846221924
+  },
+  {
+    "pop_size": 50,
+    "crossover_rate": 0.7029185479773359,
+    "mutation_rate": 0.09467519393965478,
+    "tournament_k": 7,
+    "success": false,
+    "final_conflicts": 4,
+    "decisions": 16464,
+    "runtime": 1.8382558822631836
+  },
+  {
+    "pop_size": 100,
+    "crossover_rate": 0.7982713716762218,
+    "mutation_rate": 0.03019386094368385,
+    "tournament_k": 3,
+    "success": false,
+    "final_conflicts": 13,
+    "decisions": 30987,
+    "runtime": 3.697537422180176
+  },
+  {
+    "pop_size": 200,
+    "crossover_rate": 0.7105238999832568,
+    "mutation_rate": 0.09070152484263078,
+    "tournament_k": 10,
+    "success": false,
+    "final_conflicts": 6,
+    "decisions": 65408,
+    "runtime": 7.365160703659058
+  },
+  {
+    "pop_size": 100,
+    "crossover_rate": 0.8214641914820984,
+    "mutation_rate": 0.03779938449687689,
+    "tournament_k": 7,
+    "success": false,
+    "final_conflicts": 9,
+    "decisions": 31194,
+    "runtime": 3.6929330825805664
+  },
+  {
+    "pop_size": 100,
+    "crossover_rate": 0.771858835358281,
+    "mutation_rate": 0.09253522671989504,
+    "tournament_k": 10,
+    "success": false,
+    "final_conflicts": 10,
+    "decisions": 32875,
+    "runtime": 3.7624754905700684
+  },
+  {
+    "pop_size": 150,
+    "crossover_rate": 0.8677832386448368,
+    "mutation_rate": 0.09092383682232907,
+    "tournament_k": 3,
+    "success": false,
+    "final_conflicts": 6,
+    "decisions": 49102,
+    "runtime": 5.627639055252075
+  },
+  {
+    "pop_size": 50,
+    "crossover_rate": 0.839685775734579,
+    "mutation_rate": 0.025186400601157025,
+    "tournament_k": 7,
+    "success": false,
+    "final_conflicts": 13,
+    "decisions": 15402,
+    "runtime": 1.860382318496704
+  },
+  {
+    "pop_size": 100,
+    "crossover_rate": 0.8216293128559831,
+    "mutation_rate": 0.06604846411374671,
+    "tournament_k": 10,
+    "success": false,
+    "final_conflicts": 4,
+    "decisions": 31971,
+    "runtime": 3.7329795360565186
+  },
+  {
+    "pop_size": 50,
+    "crossover_rate": 0.8800018049931193,
+    "mutation_rate": 0.0231313020231809,
+    "tournament_k": 5,
+    "success": false,
+    "final_conflicts": 6,
+    "decisions": 15403,
+    "runtime": 1.8558950424194336
+  },
+  {
+    "pop_size": 100,
+    "crossover_rate": 0.7480130320550771,
+    "mutation_rate": 0.08196313049098579,
+    "tournament_k": 3,
+    "success": false,
+    "final_conflicts": 8,
+    "decisions": 32560,
+    "runtime": 3.6402111053466797
+  },
+  {
+    "pop_size": 300,
+    "crossover_rate": 0.8222576399219734,
+    "mutation_rate": 0.01090175869221571,
+    "tournament_k": 5,
+    "success": false,
+    "final_conflicts": 6,
+    "decisions": 91276,
+    "runtime": 11.089247465133667
+  },
+  {
+    "pop_size": 200,
+    "crossover_rate": 0.7063469114594755,
+    "mutation_rate": 0.02102595262504945,
+    "tournament_k": 3,
+    "success": false,
+    "final_conflicts": 6,
+    "decisions": 61448,
+    "runtime": 7.219695329666138
+  }
+]
